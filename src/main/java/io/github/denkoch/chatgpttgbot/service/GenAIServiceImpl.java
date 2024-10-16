@@ -17,7 +17,6 @@ public class GenAIServiceImpl implements GenAIService{
     private ChatLanguageModel chatLanguageModel;
     private Assistant assistant;
 
-
 //    @Override
 //    public String getResponse(ChatRequest request) {
 //
